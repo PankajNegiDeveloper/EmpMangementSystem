@@ -8,7 +8,7 @@ import org.jsp.EmpManagmentSyst.Entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-@Service // annotation for service class
+@Service // This annotation is used for service class
 public class EmployeeService {
 
 	@Autowired
